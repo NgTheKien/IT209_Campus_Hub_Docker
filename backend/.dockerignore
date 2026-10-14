@@ -1,0 +1,13 @@
+build/
+.gradle/
+out/
+bin/
+target/
+.idea/
+.vscode/
+*.iml
+*.log
+.env
+.DS_Store
+Dockerfile
+.dockerignore
